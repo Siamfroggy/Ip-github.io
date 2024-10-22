@@ -1,3 +1,4 @@
 {
-  "apiUrl": "https://api.ipify.org?format=json&apikey=Siam"
+  "ipApi": "https://api.ipify.org?format=json&apikey=SiamTheFrog",
+  "ipInfoApi": "https://ipinfo.io/{ip}/geo?apikey=SiamTheFrog"
 }
